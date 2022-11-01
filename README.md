@@ -24,7 +24,7 @@ cd ..
 openssl req -newkey rsa:2048 -nodes -keyout example.key -x509 -days 365 -out example.crt
 ```
 
-The scripts won’t work without a certificate and a key.
+  The scripts won’t work without a certificate and a key.
 
 4) Run server
 
